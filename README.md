@@ -4,6 +4,7 @@ Mentoria_GitKraken
 22h44m
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
@@ -14,11 +15,14 @@ Mentoria_GitKraken
 =======
 >>>>>>> 5638c6e... Auto stash before rebase of "refs/heads/Desenvolvedor"
 >>>>>>> Stashed changes
+=======
+>>>>>>> teste
 
 22h52m
 
 23hoom
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
@@ -33,3 +37,5 @@ Mentoria_GitKraken
 =======
 >>>>>>> 5638c6e... Auto stash before rebase of "refs/heads/Desenvolvedor"
 >>>>>>> Stashed changes
+=======
+>>>>>>> teste
